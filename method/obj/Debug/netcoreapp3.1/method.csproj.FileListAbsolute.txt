@@ -1,0 +1,14 @@
+D:\C# Assigment\method\bin\Debug\netcoreapp3.1\method.exe
+D:\C# Assigment\method\bin\Debug\netcoreapp3.1\method.deps.json
+D:\C# Assigment\method\bin\Debug\netcoreapp3.1\method.runtimeconfig.json
+D:\C# Assigment\method\bin\Debug\netcoreapp3.1\method.runtimeconfig.dev.json
+D:\C# Assigment\method\bin\Debug\netcoreapp3.1\method.dll
+D:\C# Assigment\method\bin\Debug\netcoreapp3.1\method.pdb
+D:\C# Assigment\method\obj\Debug\netcoreapp3.1\method.csproj.AssemblyReference.cache
+D:\C# Assigment\method\obj\Debug\netcoreapp3.1\method.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Assigment\method\obj\Debug\netcoreapp3.1\method.AssemblyInfoInputs.cache
+D:\C# Assigment\method\obj\Debug\netcoreapp3.1\method.AssemblyInfo.cs
+D:\C# Assigment\method\obj\Debug\netcoreapp3.1\method.csproj.CoreCompileInputs.cache
+D:\C# Assigment\method\obj\Debug\netcoreapp3.1\method.dll
+D:\C# Assigment\method\obj\Debug\netcoreapp3.1\method.pdb
+D:\C# Assigment\method\obj\Debug\netcoreapp3.1\method.genruntimeconfig.cache

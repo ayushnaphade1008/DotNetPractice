@@ -1,0 +1,14 @@
+D:\C# Assigment\for_foreach_loop\bin\Debug\netcoreapp3.1\for_foreach_loop.exe
+D:\C# Assigment\for_foreach_loop\bin\Debug\netcoreapp3.1\for_foreach_loop.deps.json
+D:\C# Assigment\for_foreach_loop\bin\Debug\netcoreapp3.1\for_foreach_loop.runtimeconfig.json
+D:\C# Assigment\for_foreach_loop\bin\Debug\netcoreapp3.1\for_foreach_loop.runtimeconfig.dev.json
+D:\C# Assigment\for_foreach_loop\bin\Debug\netcoreapp3.1\for_foreach_loop.dll
+D:\C# Assigment\for_foreach_loop\bin\Debug\netcoreapp3.1\for_foreach_loop.pdb
+D:\C# Assigment\for_foreach_loop\obj\Debug\netcoreapp3.1\for_foreach_loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Assigment\for_foreach_loop\obj\Debug\netcoreapp3.1\for_foreach_loop.AssemblyInfoInputs.cache
+D:\C# Assigment\for_foreach_loop\obj\Debug\netcoreapp3.1\for_foreach_loop.AssemblyInfo.cs
+D:\C# Assigment\for_foreach_loop\obj\Debug\netcoreapp3.1\for_foreach_loop.csproj.CoreCompileInputs.cache
+D:\C# Assigment\for_foreach_loop\obj\Debug\netcoreapp3.1\for_foreach_loop.dll
+D:\C# Assigment\for_foreach_loop\obj\Debug\netcoreapp3.1\for_foreach_loop.pdb
+D:\C# Assigment\for_foreach_loop\obj\Debug\netcoreapp3.1\for_foreach_loop.genruntimeconfig.cache
+D:\C# Assigment\for_foreach_loop\obj\Debug\netcoreapp3.1\for_foreach_loop.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\C# Assigment\switches\bin\Debug\netcoreapp3.1\switches.exe
+D:\C# Assigment\switches\bin\Debug\netcoreapp3.1\switches.deps.json
+D:\C# Assigment\switches\bin\Debug\netcoreapp3.1\switches.runtimeconfig.json
+D:\C# Assigment\switches\bin\Debug\netcoreapp3.1\switches.runtimeconfig.dev.json
+D:\C# Assigment\switches\bin\Debug\netcoreapp3.1\switches.dll
+D:\C# Assigment\switches\bin\Debug\netcoreapp3.1\switches.pdb
+D:\C# Assigment\switches\obj\Debug\netcoreapp3.1\switches.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Assigment\switches\obj\Debug\netcoreapp3.1\switches.AssemblyInfoInputs.cache
+D:\C# Assigment\switches\obj\Debug\netcoreapp3.1\switches.AssemblyInfo.cs
+D:\C# Assigment\switches\obj\Debug\netcoreapp3.1\switches.csproj.CoreCompileInputs.cache
+D:\C# Assigment\switches\obj\Debug\netcoreapp3.1\switches.dll
+D:\C# Assigment\switches\obj\Debug\netcoreapp3.1\switches.pdb
+D:\C# Assigment\switches\obj\Debug\netcoreapp3.1\switches.genruntimeconfig.cache

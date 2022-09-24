@@ -1,0 +1,14 @@
+D:\C# Assigment\canteen\bin\Debug\netcoreapp3.1\canteen.exe
+D:\C# Assigment\canteen\bin\Debug\netcoreapp3.1\canteen.deps.json
+D:\C# Assigment\canteen\bin\Debug\netcoreapp3.1\canteen.runtimeconfig.json
+D:\C# Assigment\canteen\bin\Debug\netcoreapp3.1\canteen.runtimeconfig.dev.json
+D:\C# Assigment\canteen\bin\Debug\netcoreapp3.1\canteen.dll
+D:\C# Assigment\canteen\bin\Debug\netcoreapp3.1\canteen.pdb
+D:\C# Assigment\canteen\obj\Debug\netcoreapp3.1\canteen.csproj.AssemblyReference.cache
+D:\C# Assigment\canteen\obj\Debug\netcoreapp3.1\canteen.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Assigment\canteen\obj\Debug\netcoreapp3.1\canteen.AssemblyInfoInputs.cache
+D:\C# Assigment\canteen\obj\Debug\netcoreapp3.1\canteen.AssemblyInfo.cs
+D:\C# Assigment\canteen\obj\Debug\netcoreapp3.1\canteen.csproj.CoreCompileInputs.cache
+D:\C# Assigment\canteen\obj\Debug\netcoreapp3.1\canteen.dll
+D:\C# Assigment\canteen\obj\Debug\netcoreapp3.1\canteen.pdb
+D:\C# Assigment\canteen\obj\Debug\netcoreapp3.1\canteen.genruntimeconfig.cache

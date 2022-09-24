@@ -1,0 +1,14 @@
+C:\Users\AYUSH\source\repos\casio\bin\Debug\netcoreapp3.1\casio.exe
+C:\Users\AYUSH\source\repos\casio\bin\Debug\netcoreapp3.1\casio.deps.json
+C:\Users\AYUSH\source\repos\casio\bin\Debug\netcoreapp3.1\casio.runtimeconfig.json
+C:\Users\AYUSH\source\repos\casio\bin\Debug\netcoreapp3.1\casio.runtimeconfig.dev.json
+C:\Users\AYUSH\source\repos\casio\bin\Debug\netcoreapp3.1\casio.dll
+C:\Users\AYUSH\source\repos\casio\bin\Debug\netcoreapp3.1\casio.pdb
+C:\Users\AYUSH\source\repos\casio\obj\Debug\netcoreapp3.1\casio.csproj.AssemblyReference.cache
+C:\Users\AYUSH\source\repos\casio\obj\Debug\netcoreapp3.1\casio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYUSH\source\repos\casio\obj\Debug\netcoreapp3.1\casio.AssemblyInfoInputs.cache
+C:\Users\AYUSH\source\repos\casio\obj\Debug\netcoreapp3.1\casio.AssemblyInfo.cs
+C:\Users\AYUSH\source\repos\casio\obj\Debug\netcoreapp3.1\casio.csproj.CoreCompileInputs.cache
+C:\Users\AYUSH\source\repos\casio\obj\Debug\netcoreapp3.1\casio.dll
+C:\Users\AYUSH\source\repos\casio\obj\Debug\netcoreapp3.1\casio.pdb
+C:\Users\AYUSH\source\repos\casio\obj\Debug\netcoreapp3.1\casio.genruntimeconfig.cache

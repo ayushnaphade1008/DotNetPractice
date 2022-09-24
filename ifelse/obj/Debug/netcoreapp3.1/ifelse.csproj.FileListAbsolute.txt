@@ -1,0 +1,13 @@
+D:\C# Assigment\ifelse\bin\Debug\netcoreapp3.1\ifelse.exe
+D:\C# Assigment\ifelse\bin\Debug\netcoreapp3.1\ifelse.deps.json
+D:\C# Assigment\ifelse\bin\Debug\netcoreapp3.1\ifelse.runtimeconfig.json
+D:\C# Assigment\ifelse\bin\Debug\netcoreapp3.1\ifelse.runtimeconfig.dev.json
+D:\C# Assigment\ifelse\bin\Debug\netcoreapp3.1\ifelse.dll
+D:\C# Assigment\ifelse\bin\Debug\netcoreapp3.1\ifelse.pdb
+D:\C# Assigment\ifelse\obj\Debug\netcoreapp3.1\ifelse.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Assigment\ifelse\obj\Debug\netcoreapp3.1\ifelse.AssemblyInfoInputs.cache
+D:\C# Assigment\ifelse\obj\Debug\netcoreapp3.1\ifelse.AssemblyInfo.cs
+D:\C# Assigment\ifelse\obj\Debug\netcoreapp3.1\ifelse.csproj.CoreCompileInputs.cache
+D:\C# Assigment\ifelse\obj\Debug\netcoreapp3.1\ifelse.dll
+D:\C# Assigment\ifelse\obj\Debug\netcoreapp3.1\ifelse.pdb
+D:\C# Assigment\ifelse\obj\Debug\netcoreapp3.1\ifelse.genruntimeconfig.cache

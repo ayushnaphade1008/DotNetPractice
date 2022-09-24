@@ -1,0 +1,14 @@
+C:\Users\AYUSH\source\repos\Calcy\bin\Debug\netcoreapp3.1\Calcy.exe
+C:\Users\AYUSH\source\repos\Calcy\bin\Debug\netcoreapp3.1\Calcy.deps.json
+C:\Users\AYUSH\source\repos\Calcy\bin\Debug\netcoreapp3.1\Calcy.runtimeconfig.json
+C:\Users\AYUSH\source\repos\Calcy\bin\Debug\netcoreapp3.1\Calcy.runtimeconfig.dev.json
+C:\Users\AYUSH\source\repos\Calcy\bin\Debug\netcoreapp3.1\Calcy.dll
+C:\Users\AYUSH\source\repos\Calcy\bin\Debug\netcoreapp3.1\Calcy.pdb
+C:\Users\AYUSH\source\repos\Calcy\obj\Debug\netcoreapp3.1\Calcy.csproj.AssemblyReference.cache
+C:\Users\AYUSH\source\repos\Calcy\obj\Debug\netcoreapp3.1\Calcy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYUSH\source\repos\Calcy\obj\Debug\netcoreapp3.1\Calcy.AssemblyInfoInputs.cache
+C:\Users\AYUSH\source\repos\Calcy\obj\Debug\netcoreapp3.1\Calcy.AssemblyInfo.cs
+C:\Users\AYUSH\source\repos\Calcy\obj\Debug\netcoreapp3.1\Calcy.csproj.CoreCompileInputs.cache
+C:\Users\AYUSH\source\repos\Calcy\obj\Debug\netcoreapp3.1\Calcy.dll
+C:\Users\AYUSH\source\repos\Calcy\obj\Debug\netcoreapp3.1\Calcy.pdb
+C:\Users\AYUSH\source\repos\Calcy\obj\Debug\netcoreapp3.1\Calcy.genruntimeconfig.cache

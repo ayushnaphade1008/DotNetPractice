@@ -1,0 +1,14 @@
+D:\C# Assigment\2.Array\Array\bin\Debug\netcoreapp3.1\Array.exe
+D:\C# Assigment\2.Array\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+D:\C# Assigment\2.Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+D:\C# Assigment\2.Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+D:\C# Assigment\2.Array\Array\bin\Debug\netcoreapp3.1\Array.dll
+D:\C# Assigment\2.Array\Array\bin\Debug\netcoreapp3.1\Array.pdb
+D:\C# Assigment\2.Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.AssemblyReference.cache
+D:\C# Assigment\2.Array\Array\obj\Debug\netcoreapp3.1\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Assigment\2.Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+D:\C# Assigment\2.Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+D:\C# Assigment\2.Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+D:\C# Assigment\2.Array\Array\obj\Debug\netcoreapp3.1\Array.dll
+D:\C# Assigment\2.Array\Array\obj\Debug\netcoreapp3.1\Array.pdb
+D:\C# Assigment\2.Array\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache

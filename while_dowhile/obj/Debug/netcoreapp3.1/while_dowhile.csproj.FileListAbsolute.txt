@@ -1,0 +1,14 @@
+D:\C# Assigment\while_dowhile\bin\Debug\netcoreapp3.1\while_dowhile.exe
+D:\C# Assigment\while_dowhile\bin\Debug\netcoreapp3.1\while_dowhile.deps.json
+D:\C# Assigment\while_dowhile\bin\Debug\netcoreapp3.1\while_dowhile.runtimeconfig.json
+D:\C# Assigment\while_dowhile\bin\Debug\netcoreapp3.1\while_dowhile.runtimeconfig.dev.json
+D:\C# Assigment\while_dowhile\bin\Debug\netcoreapp3.1\while_dowhile.dll
+D:\C# Assigment\while_dowhile\bin\Debug\netcoreapp3.1\while_dowhile.pdb
+D:\C# Assigment\while_dowhile\obj\Debug\netcoreapp3.1\while_dowhile.csproj.AssemblyReference.cache
+D:\C# Assigment\while_dowhile\obj\Debug\netcoreapp3.1\while_dowhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Assigment\while_dowhile\obj\Debug\netcoreapp3.1\while_dowhile.AssemblyInfoInputs.cache
+D:\C# Assigment\while_dowhile\obj\Debug\netcoreapp3.1\while_dowhile.AssemblyInfo.cs
+D:\C# Assigment\while_dowhile\obj\Debug\netcoreapp3.1\while_dowhile.csproj.CoreCompileInputs.cache
+D:\C# Assigment\while_dowhile\obj\Debug\netcoreapp3.1\while_dowhile.dll
+D:\C# Assigment\while_dowhile\obj\Debug\netcoreapp3.1\while_dowhile.pdb
+D:\C# Assigment\while_dowhile\obj\Debug\netcoreapp3.1\while_dowhile.genruntimeconfig.cache
